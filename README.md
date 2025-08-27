@@ -1,5 +1,3 @@
-# 🚀 Bienvenido
-
 **Full-Stack Developer | Ingeniero en Informática**  
 🌎 Estado de México | Apasionado por el desarrollo fullstack  
 
