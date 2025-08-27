@@ -1,11 +1,11 @@
-# 👋 ¡Hola!
+# 🚀 Bienvenido
 
 **Full-Stack Developer | Ingeniero en Informática**  
-🌎 Estado de México | 🚀 Apasionado por el desarrollo fullstack  
+🌎 Estado de México | Apasionado por el desarrollo fullstack  
 
 ---
 
-## ☀️ Sobre mí
+## 💡 Perfil
 Soy un desarrollador con experiencia en **frontend y backend**, especializado en **PHP, Java, React, Node.js y SQL**.  
 He trabajado en proyectos de **finanzas, banca, intranets corporativas y e-commerce**, desde el desarrollo de módulos hasta la construcción de sistemas completos.  
 
@@ -15,7 +15,7 @@ He trabajado en proyectos de **finanzas, banca, intranets corporativas y e-comme
 
 ---
 
-## 🛠️ Tecnologías & Herramientas  
+## ⚙️ Tecnologías & Herramientas  
 
 **Frontend**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -32,6 +32,7 @@ He trabajado en proyectos de **finanzas, banca, intranets corporativas y e-comme
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
 ![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)  
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)  
 
 **Bases de datos**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
@@ -55,13 +56,13 @@ He trabajado en proyectos de **finanzas, banca, intranets corporativas y e-comme
 
 ---
 
-## 🎓 Formación
+## 📘 Formación
 - **Ingeniería en Informática** – Universidad Politécnica del Valle de México  
 - **Internship: Project Management & Public Policy** – The Washington Center, Washington D.C.  
 
 ---
 
-## 📌 Intereses
+## 🌐 Intereses
 - Desarrollo **fullstack** de sistemas empresariales a gran escala  
 - **Arquitecturas en la nube** y despliegues escalables  
 - Me encantan todo tipo de **APIs**: comunicación, integraciones y tecnología  
